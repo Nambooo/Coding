@@ -1,0 +1,15 @@
+h1 {
+
+  border-width: 2px;
+  border-style: dashed;
+  border-color: blue;
+
+}
+
+p {
+
+  font-family: Georgia, serif;
+  font-weight: 200px;
+  font-size: 20px;
+
+}
