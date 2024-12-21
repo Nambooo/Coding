@@ -1,0 +1,11 @@
+#outer {
+  width: 500px;
+  height: 500px;
+  background-color: Indigo;
+}
+
+#inner {
+  width: 400px;
+  height: 400px;
+  background-image: url("https://bestfriends.org/sites/default/files/styles/large_mobile/public/2022-04/DE_Egypt5843MW_0.jpg?itok=F_Gj8eGu");
+}
